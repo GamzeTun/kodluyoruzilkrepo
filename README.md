@@ -1,7 +1,13 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
+<<<<<<< HEAD
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![](Foto\fotoRepo.png)
+![](Foto\repoFoto.png)
+=======
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html, bir adet .gitignore, bir adet index.css dosyası barındırıyor.
+
+ ![](Fotoğraflar\Ekran Görüntüsü (45).png)
+>>>>>>> 879730b748a8dfa2ab4ec26acd0c84db5e608d2e
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
